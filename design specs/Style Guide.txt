@@ -1,0 +1,21 @@
+Headers to be in sizing H2
+SubHeadings to be in sizing H3
+BitPro Logo Image to be on top of page as static
+Pop out Page index (hamburger)
+Text to be in helvetica
+Any other text to be in helvetica sub fonts if nessacary 
+Body paragraphs to be in black text helvetica
+Table of contents to have blood orange text, with black underline and light grey opaque background
+
+Primary Colors to be used
+- Black
+- Blood Orange
+
+Sub Colors
+- Dark Blue
+- Grey
+- Blue Grey
+
+Page Background to be Light Grey
+
+Images to be centered, all images on the page must be same height with a 2.5mm black border
