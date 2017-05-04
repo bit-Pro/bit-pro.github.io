@@ -19,3 +19,5 @@ Sub Colors
 Page Background to be Light Grey HTML code:	#E3E3E3
 
 Images to be centered, all images on the page must be same height with a 2.5mm black border
+
+If any contact is needed regarding this contact Connor on 0226155173
