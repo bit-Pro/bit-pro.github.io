@@ -8,14 +8,14 @@ Body paragraphs to be in black text helvetica
 Table of contents to have blood orange text, with black underline and light grey opaque background
 
 Primary Colors to be used
-- Black
-- Blood Orange
+- Black HTML code:	#000000
+- Blood Orange HTML code:	#F10007
 
 Sub Colors
-- Dark Blue
-- Grey
-- Blue Grey
+- Dark Blue HTML code:	#01008C
+- Grey HTML code:	#C0C0C0
+- Blue Grey HTML code:	#617C8F
 
-Page Background to be Light Grey
+Page Background to be Light Grey HTML code:	#E3E3E3
 
 Images to be centered, all images on the page must be same height with a 2.5mm black border
