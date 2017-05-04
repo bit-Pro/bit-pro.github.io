@@ -1,4 +1,4 @@
-Headers to be in sizing H2
+Headers to be in sizing H2, underlined
 SubHeadings to be in sizing H3
 BitPro Logo Image to be on top of page as static
 Pop out Page index (hamburger)
