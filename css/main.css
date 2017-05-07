@@ -3,10 +3,17 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica'
     padding: 0px;
     list-style: none;
     font-weight: bold;
+}
+header {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
 }
 nav ul li, footer ul li {
     display: inline;
