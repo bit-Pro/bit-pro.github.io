@@ -1,27 +1,37 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
+	background-color: #617C8F;
+	padding-top: 40px;
+}
+header {
+	padding: 0.2em;
+    color: white;
+    background-color: #000000;
+    clear: left;
+    text-align: left;
+	font-size: 3em;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	border-bottom: 3px solid white;
+	
 }
 nav ul, footer ul {
-    font-family:'Helvetica'
-    padding: 0px;
+    font-family:'Helvetica';
+	font-size: 1em;
+    padding-left: 20px;
     list-style: none;
     font-weight: bold;
 }
-header {
-    padding: 1em;
-    color: white;
-    background-color: black;
-    clear: left;
-    text-align: center;
-}
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: white;
 }
 a:hover {
     text-decoration: underline;
@@ -36,8 +46,13 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    border-top: 3px solid #d5d5d5;
+    font-size: 1em;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	background-color: #000000;
+	width: 100%;
 }
 
 ul.posts { 
