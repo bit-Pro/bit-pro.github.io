@@ -12,14 +12,24 @@ header {
     text-align: left;
 	font-size: 3em;
 	width: 100%;
+	height: 60px;
 	position: fixed;
 	top: 0px;
 	left: 0px;
 	border-bottom: 3px solid white;
+	display: block;
+}
+logo {
+	float: right;
+	padding-right: 100px;
+	height: 60px;
+	width: 60px;
+	top: 0px;
+    right: 0px;
 	
 }
 nav ul, footer ul {
-    font-family:'Helvetica';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	font-size: 1em;
     padding-left: 20px;
     list-style: none;
