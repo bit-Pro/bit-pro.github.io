@@ -5,14 +5,13 @@ body {
 	padding-top: 40px;
 }
 header {
-	padding: 0.2em;
     color: white;
     background-color: #000000;
     clear: left;
     text-align: left;
 	font-size: 3em;
 	width: 100%;
-	height: 60px;
+	height: 70px;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -21,11 +20,9 @@ header {
 }
 logo {
 	float: right;
-	padding-right: 100px;
-	height: 60px;
-	width: 60px;
-	top: 0px;
-    right: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	margin: 0;
 	
 }
 nav ul, footer ul {
