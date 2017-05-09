@@ -19,7 +19,7 @@ header {
 	
 }
 nav ul, footer ul {
-    font-family:'Helvetica';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	font-size: 1em;
     padding-left: 20px;
     list-style: none;
