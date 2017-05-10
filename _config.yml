@@ -1,2 +1,3 @@
 name: bitPro
 markdown: kramdown
+plugins: [jekyll-auth]
