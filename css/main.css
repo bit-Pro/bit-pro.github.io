@@ -22,6 +22,7 @@ header {
 	padding-right: 0px;
 	padding-top: 0px;
 	margin: 0;	
+	filter: invert(1);
 }
 nav {
 	min-width: 300px;
