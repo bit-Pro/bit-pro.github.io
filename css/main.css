@@ -55,6 +55,7 @@ nav ul li, footer ul li {
 }
 h1 {
     font-size: 3em;
+	padding-top:75px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -72,11 +73,8 @@ footer {
 	width: 100%;
 }
 #ps_column1 {
-	width: 20%;
-	padding-top: 150px;
+	width: 50%;
 	float: left;
-	padding-left: 250px;
-	padding-bottom: 50px;
 }
 
 #ps_column1 p, #pc_column2 p {
@@ -85,16 +83,15 @@ footer {
 }
 
 #pc_column2 {
-	width: 500px;
-	float: right;
-	margin-right: 600px;
-	padding-top: 150px;
-	padding-bottom: 50px;
+	width: 50%;
+	display: inline;
 }
 
-.container{
-	width: 100%;
-	margin: auto;
+.container {
+	background-color:white;
+	width: 900px;
+	padding-top: 50px;
+	margin: 0 auto;
 }
 .images{
 	margin-bottom: 50px;
