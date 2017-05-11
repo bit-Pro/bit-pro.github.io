@@ -90,8 +90,8 @@ footer {
 .container {
 	background-color:white;
 	width: 900px;
-	padding-top: 50px;
 	margin: 0 auto;
+	padding: 20px;
 }
 .images{
 	margin-bottom: 50px;
