@@ -78,7 +78,7 @@ footer {
 }
 
 #ps_column1 p, #pc_column2 p {
-	column-count: 2;
+	column-count: 1;
 	width: 360px;
 }
 
