@@ -72,9 +72,10 @@ footer {
 	width: 100%;
 }
 #ps_column1 {
-	width: 30%;
-	padding: 50px;
+	width: 20%;
+	padding-top: 150px;
 	float: left;
+	padding-left: 250px;
 }
 
 #ps_column1 p, #pc_column2 p {
@@ -83,9 +84,10 @@ footer {
 }
 
 #pc_column2 {
-	width: 30%;
+	width: 500px;
 	float: right;
-	margin-right: 200px;
+	margin-right: 600px;
+	padding-top: 150px;
 }
 
 .container{
