@@ -91,11 +91,13 @@ footer {
 	background-color:white;
 	width: 900px;
 	margin: 0 auto;
+	margin-top: 60px;
 	padding: 20px;
+	
 }
 .images{
 	margin-bottom: 50px;
 }
 a {
-	color: white;
+	color: #f10007;
 }
