@@ -93,7 +93,7 @@ footer {
 }
 
 .container {
-	background-color:white;
+	background-color:rgba(255, 255, 255, 0.5);	
 	width: 900px;
 	margin: 0 auto;
 	margin-top: 60px;
