@@ -76,6 +76,7 @@ footer {
 	padding-top: 150px;
 	float: left;
 	padding-left: 250px;
+	padding-bottom: 50px;
 }
 
 #ps_column1 p, #pc_column2 p {
@@ -88,6 +89,7 @@ footer {
 	float: right;
 	margin-right: 600px;
 	padding-top: 150px;
+	padding-bottom: 50px;
 }
 
 .container{
