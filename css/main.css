@@ -49,9 +49,13 @@ nav ul li, footer ul li {
     color: white;
 	padding: 14px 30px;
 	display: inline;
+	
 }
 .buttons:hover {
     background-color: #111;
+	text-decoration: underline;
+	text-decoration-color: #f10007;
+	color: #f10007;
 }
 h1 {
     font-size: 3em;
