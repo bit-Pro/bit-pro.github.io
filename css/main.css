@@ -17,11 +17,12 @@ header {
 	left: 0px;
 	border-bottom: 3px solid white;
 }
-logo {
+#logo {
 	float: right;
 	padding-right: 0px;
 	padding-top: 0px;
 	margin: 0;	
+	filter: invert(1);
 }
 nav {
 	min-width: 300px;
@@ -49,9 +50,13 @@ nav ul li, footer ul li {
     color: white;
 	padding: 14px 30px;
 	display: inline;
+	
 }
 .buttons:hover {
     background-color: #111;
+	text-decoration: underline;
+	text-decoration-color: #f10007;
+	color: #f10007;
 }
 h1 {
     font-size: 3em;
@@ -78,7 +83,7 @@ footer {
 }
 
 #ps_column1 p, #pc_column2 p {
-	column-count: 2;
+	column-count: 1;
 	width: 360px;
 }
 
@@ -88,7 +93,7 @@ footer {
 }
 
 .container {
-	background-color:white;
+	background-color:rgba(255, 255, 255, 0.5);	
 	width: 900px;
 	margin: 0 auto;
 	margin-top: 60px;
