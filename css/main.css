@@ -2,7 +2,7 @@ body {
     margin: 0;
     width: 100%;
 	background-color: #617C8F;
-	padding-top: 40px;
+	padding-top: 100px;
 }
 header {
     color: white;
@@ -102,7 +102,7 @@ footer {
 	
 }
 .images{
-	margin-bottom: 50px;
+	margin-bottom: 50px; 
 }
 a {
 	color: #f10007;
